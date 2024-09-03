@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="336640ac-920d-44e9-8b34-baccc215d014" name="Changes" comment="" />
+    <list default="true" id="336640ac-920d-44e9-8b34-baccc215d014" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Contact_us.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contact_us.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aliraisi80"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aliraisi80/portfolio.git",
+    "accountId": "a8af9953-5d12-4133-8e57-e6e4b457b14c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -33,6 +50,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +84,7 @@
       <workItem from="1725209519654" duration="3973000" />
       <workItem from="1725274115659" duration="214000" />
       <workItem from="1725303491663" duration="411000" />
+      <workItem from="1725384912753" duration="2677000" />
     </task>
     <servers />
   </component>
